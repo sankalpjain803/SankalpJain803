@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Sankalp Jain
 
-🎯 **Accomplished Data Scientist** at **Genpact**, recognized as a **Top Performer (2023–2024)** and recipient of the prestigious **Yoda Mentor Award** among 264+ interns at Enquero Global.
-
+🎯 For me, data science is less about numbers and more about discovery - the thrill of asking the right questions and building something new from the answers. I live by the belief that every problem has a solution, and I bring this mindset into everything I do - whether publishing research on Emotion and Personality Recognition, writing for Towards Data Science, or competing in hackathons where I’ve built innovative solutions like stock price prediction models and real estate platforms. At Genpact, I was recognized as a Top Performer for leading AI initiatives by SVP and Global Lead that improved forecasting, automation, and customer experience, and I managed large-scale chatbot and analytics platforms. I was also honored with the YODA Mentor (Best Intern of the Year) title among 260+ interns for leadership and innovation. What sets me apart is not just technical expertise, but the ability to lead, innovate, and build solutions from the ground up-turning challenges into scalable impact.
 ---
 
 ## 💼 About Me
