@@ -39,7 +39,7 @@ What sets me apart is not just technical expertise, but the ability to lead, inn
 
 - [LinkedIn](https://www.linkedin.com/in/sankalpjain803/)
 - [Portfolio/Blog](https://medium.com/@sankalpjain803)
-- [Email](mailto:sankalpjain803@gmail.com) 
+- [Email](mailto:sj3473@columbia.edu) 
 
 
 ---
